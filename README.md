@@ -3,7 +3,7 @@
 
 
 ```bash
-$ git clone 
+$ git clone git@github.com:huangxiangpopo/simpleApp.git
 $ cd simpleApp && npm install
 $ npm start
 ```
